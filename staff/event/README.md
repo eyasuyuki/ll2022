@@ -24,7 +24,7 @@ Learn Languagesは様々なプログラミング言語について学びたい�
 | ---:         |     ---      |
 | URL | [https://ll.jus.or.jp/2022/](https://ll.jus.or.jp/2022/) |
 | ハッシュタグ |  [#ll2022jp](https://twitter.com/search?q=ll2022jp) |
-| 日付 |  2022年9月6日(土) |
+| 日付 |  2022年9月3日(土) |
 | 時間 |  12:00 - 17:00 (予定) |
 | 形態 |  オンライン(Zoom, [YouTube Live](https://www.youtube.com/c/OSPNjp))  |
 | 参加登録 |  ODC([https://event.ospn.jp/odc2022-online/](https://event.ospn.jp/odc2022-online/)) ページで行っています |
