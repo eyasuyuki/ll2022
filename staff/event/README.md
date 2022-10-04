@@ -76,7 +76,7 @@ Learn Languagesは様々なプログラミング言語について学びたい�
 |             演題 | Processing ならびに Processing による作品の話                                                                                                                            |
 |             概要 | Processing の紹介と、近年では海外からの参加者も増えつつある日本発の作品発表活動 「 [#つぶやきProcessing](https://twitter.com/hashtag/つぶやきProcessing) 」 についても紹介します。動画が多めの話になると思いますので、気楽に聞いて下さい。お楽しみに！ |
 | 動画 | [https://youtu.be/I2gu7yW9XEk](https://youtu.be/I2gu7yW9XEk)                                                                                                  |
-| 資料 | TBD                                                                                                                                                           |
+| 資料 | [http://ll.jus.or.jp/2022/publish_LearnLanguages2022_KojiSaito.pdf](http://ll.jus.or.jp/2022/publish_LearnLanguages2022_KojiSaito.pdf)                                                                                                                                                          |
 
 
 | **Scratch** |                                                                                                                                                                                                         |
